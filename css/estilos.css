@@ -1,0 +1,14 @@
+h1{
+  background-color: white;
+  font-size: 50px;
+}
+#autora:hover {
+  color: green;
+  text-transform: uppercase;
+}
+p {
+  text-align: justify;
+}
+body {
+  background-color: #F0DFFF;
+}
