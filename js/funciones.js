@@ -1,5 +1,5 @@
 window.onload= function() {
-    alert('window - onload');
+    
     let elemento=document.getElementById("nombre");
     elemento.style.color="red"; 
 
